@@ -1,4 +1,4 @@
-Ссылка на проект в GitHub Pages: https://github.com/Dasha0608/js-cp-diplom-work
+Ссылка на проект в GitHub Pages: https://dasha0608.github.io/js-cp-diplom-work/
 
 Стэк технологий: HTML, CSS, JavaScript, Git
 
